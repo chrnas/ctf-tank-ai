@@ -5,7 +5,10 @@ Clone this repo and then remove the `.git` folder:
 git clone https://github.com/chrnas/tank-ai-game.git
 cd tank-ai-game
 ```
-
+To run the game type
+```
+python ctf.py
+```
 
 We also need to add the required libraries pymunk and pygame.
 ```
