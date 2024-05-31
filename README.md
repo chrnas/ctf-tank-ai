@@ -1,7 +1,8 @@
 # Tank Ai Game
 
 Tank Ai Game is a 2d python capture the flag game with player and ai controlled tanks.
-[![alt text](![image](https://github.com/chrnas/tank-ai-game/assets/116513364/048c89e0-00fe-4599-89ea-f1f30ed9714a))]([https://www.youtube.com/watch?v=video-id](https://www.youtube.com/watch?v=wrM8_jkLwxI))
+[![alt text](https://github.com/chrnas/tank-ai-game/assets/116513364/082920cd-6f98-485a-b6e8-c195cc3df4e7)](https://www.youtube.com/watch?v=wrM8_jkLwxI)
+
 
 ## Installation
 
