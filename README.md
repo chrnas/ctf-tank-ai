@@ -25,14 +25,12 @@ pip install pymunk==5.7.0
 pip install pygame==2.0.1
 ```
 
+Use the following command to check that the versions are correct:
 ```
 pip freeze
 ```
 
 ## Usage
-
-Use the following command to check that the versions are correct:
-
 
 To run the game with only ai
 ```
