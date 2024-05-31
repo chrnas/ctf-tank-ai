@@ -12,7 +12,7 @@ Check python version using python3 --version
 python3 --version
 ```
 
-Install dependencies:
+Install dependencies, game does not work on newer versions:
 ```
 pip install pymunk==5.7.0
 pip install pygame==2.0.1
