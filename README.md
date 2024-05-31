@@ -23,5 +23,20 @@ Use the following command to check that the versions are correct:
 pip freeze
 ```
 
+To run the game with only ai
+```
+python ctf.py
+```
+
+To run the game in singleplayer mode
+```
+python ctf.py -s
+```
+
+To run the game in multiplayer mode
+```
+python ctf.py -m
+```
+
 
 Next go to our [wiki](https://gitlab.liu.se/tdde25/ctf/wikis/home) and get started on the tutorials.
