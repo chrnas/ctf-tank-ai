@@ -1,6 +1,6 @@
 ## Getting started
 
-Clone this repo and then remove the `.git` folder:
+Clone this repo.
 ```
 git clone https://gitlab.liu.se/tdde25/ctf](https://github.com/chrnas/tank-ai-game.git
 cd ctf
