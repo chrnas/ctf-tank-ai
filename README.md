@@ -2,7 +2,7 @@
 
 Clone this repo.
 ```
-git clone https://gitlab.liu.se/tdde25/ctf](https://github.com/chrnas/tank-ai-game.git
+git clone https://gitlab.liu.se/tdde25/ctf https://github.com/chrnas/tank-ai-game.git
 cd ctf
 ```
 
