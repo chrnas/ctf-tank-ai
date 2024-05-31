@@ -1,6 +1,6 @@
-# Tank Ai Game
+# Ctf tank ai
 
-Tank Ai Game is a 2d python capture the flag game with player and ai controlled tanks.
+Ctf tank ai is a 2d python capture the flag game with player and ai controlled tanks.
 [![alt text](https://github.com/chrnas/tank-ai-game/assets/116513364/082920cd-6f98-485a-b6e8-c195cc3df4e7)](https://www.youtube.com/watch?v=wrM8_jkLwxI)
 
 
