@@ -8,7 +8,7 @@ Ctf Tank Ai is a 2d python capture the flag game with player and ai controlled t
 
 Clone this repo.
 ```
-git clone https://gitlab.liu.se/tdde25/ctf https://github.com/chrnas/tank-ai-game.git
+git clone https://github.com/chrnas/ctf-tank-ai.git
 cd ctf
 ```
 
